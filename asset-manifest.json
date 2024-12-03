@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/taza-khabar/static/css/main.dc4d6ff2.css",
+    "main.js": "/taza-khabar/static/js/main.8f57071d.js",
+    "static/js/453.06cee2c2.chunk.js": "/taza-khabar/static/js/453.06cee2c2.chunk.js",
+    "index.html": "/taza-khabar/index.html",
+    "main.dc4d6ff2.css.map": "/taza-khabar/static/css/main.dc4d6ff2.css.map",
+    "main.8f57071d.js.map": "/taza-khabar/static/js/main.8f57071d.js.map",
+    "453.06cee2c2.chunk.js.map": "/taza-khabar/static/js/453.06cee2c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.8f57071d.js"
+  ]
+}
